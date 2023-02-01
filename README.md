@@ -9,11 +9,11 @@
 
 ### 首页
 
-![Image text](https://github.com/oydf1994/east-BestSearch/tree/master/screenshots/screencapture-localhost-3000-2023-02-01-10_13_22.png)
+![Image text](https://raw.githubusercontent.com/oydf1994/east-BestSearch/master/screenshots/screencapture-localhost-3000-2023-02-01-10_13_22.png)
 
 ### 搜索页
 
-![Image text](https://github.com/oydf1994/east-BestSearch/tree/master/screenshots/screencapture-localhost-3000-search-test-2023-02-01-10_13_36.png)
+![Image text](https://raw.githubusercontent.com/oydf1994/east-BestSearch/master/screenshots/screencapture-localhost-3000-search-test-2023-02-01-10_13_36.png)
 
 
 
